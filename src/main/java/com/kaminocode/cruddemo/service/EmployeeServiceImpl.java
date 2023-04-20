@@ -1,6 +1,5 @@
 package com.kaminocode.cruddemo.service;
 
-import com.kaminocode.cruddemo.dao.EmployeeDAO;
 import com.kaminocode.cruddemo.entity.Employee;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
